@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page should render 1`] = `
+<div>
+  <div
+    class="jsx-2631949316 container"
+  >
+    <div
+      class="jsx-2631949316"
+    >
+      Home
+    </div>
+  </div>
+</div>
+`;
